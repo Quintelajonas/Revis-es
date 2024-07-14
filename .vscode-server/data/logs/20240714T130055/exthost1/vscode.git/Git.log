@@ -1,0 +1,5 @@
+2024-07-14 13:00:57.840 [info] Nível de log: Info
+2024-07-14 13:00:57.840 [info] Validando o git encontrado em: git
+2024-07-14 13:00:57.840 [info] Usando git ''2.34.1'' de ''git''
+2024-07-14 13:00:57.840 [info] > git rev-parse --show-toplevel [15ms]
+2024-07-14 13:00:58.825 [info] > git rev-parse --show-toplevel [2ms]
